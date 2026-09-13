@@ -33,8 +33,8 @@
 ```text
 Frontend Development  →  HTML • CSS • JavaScript
 AI & ML               →  Practical AI/ML Projects
-Cloud                  →  AWS & Cloud Technologies
-Development Workflow   →  Git • GitHub • Clean Code
+Cloud                 →  AWS & Cloud Technologies
+Development Workflow  →  Git • GitHub • Clean Code
 ```
 
 ---
@@ -84,8 +84,8 @@ Machine learning project for heart disease prediction using Logistic Regression,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VarunJoshi591&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunJoshi591&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./profile/github-stats.svg" width="495" alt="GitHub Profile Overview" />
+  <img src="./profile/top-languages.svg" width="495" alt="Languages and Technologies" />
 </div>
 
 ---
@@ -93,7 +93,7 @@ Machine learning project for heart disease prediction using Logistic Regression,
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VarunJoshi591&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="./profile/streak.svg" width="100%" alt="Contribution Streak" />
 </div>
 
 ---
@@ -101,7 +101,7 @@ Machine learning project for heart disease prediction using Logistic Regression,
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunJoshi591&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="./profile/activity.svg" width="100%" alt="Contribution Activity" />
 </div>
 
 ---
