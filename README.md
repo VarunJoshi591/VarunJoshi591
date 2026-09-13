@@ -1,48 +1,134 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**VarunJoshi591/VarunJoshi591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Varun Joshi
 
-Here are some ideas to get you started:
+### MCS Student • Computer Science Graduate • Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Varun Joshi</h1>
-<h3 align="center">MCS Student | Computer Science Graduate | Aspiring Software Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunjoshi591&label=Profile%20views&color=0e75b6&style=flat" alt="varunjoshi591" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunjoshi591" alt="varunjoshi591" /></a> </p>
-
-- 🔭 I’m currently working on [Levina AI](https://github.com/VarunJoshi591/levina_Co)
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript & Frontend Development**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-website-iota-fawn-26.vercel.app/](https://portfolio-website-iota-fawn-26.vercel.app/)
-
-- 💬 Ask me about **Computer Science, Web Development, Git & GitHub**
-
-- 📫 How to reach me **joshivarun089@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning ideas into working projects.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varun-joshi-287990306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-joshi-287990306" height="30" width="40" /></a>
+<p>
+  <a href="https://portfolio-website-iota-fawn-26.vercel.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/varun-joshi-287990306">LinkedIn</a> •
+  <a href="mailto:joshivarun089@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=varunjoshi591&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunjoshi591&show_icons=true&locale=en&layout=compact" alt="varunjoshi591" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunjoshi591&show_icons=true&locale=en" alt="varunjoshi591" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunjoshi591&" alt="varunjoshi591" /></p>
+## 👨‍💻 About Me
+
+- 🎓 Currently pursuing a **Master of Computer Science (MCS)**.
+- 💻 Computer Science graduate passionate about **software development and problem solving**.
+- 🤖 Currently working on **Levina AI**.
+- 🌱 Currently learning **HTML, CSS, JavaScript & Frontend Development**.
+- ☁️ Interested in **Cloud Computing, AI, Web Development & Software Engineering**.
+- 🔨 I enjoy turning ideas into **working, useful projects**.
+- 📚 Continuously improving my development skills through hands-on projects.
+
+---
+
+## 🎯 Current Focus
+
+```text
+Frontend Development  →  HTML • CSS • JavaScript
+AI & ML               →  Practical AI/ML Projects
+Cloud                  →  AWS & Cloud Technologies
+Development Workflow   →  Git • GitHub • Clean Code
+```
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 SnapNote-AI
+AI-powered SaaS that converts screenshots into smart, searchable notes using OCR and Large Language Models.
+
+🔗 [View Repository](https://github.com/VarunJoshi591/SnapNote-AI)
+
+### ☕ COFFEE-3D-WEBSITE
+Premium coffee brand landing page featuring 3D product visualization, frame-by-frame animations, responsive design and modern frontend development.
+
+🔗 [View Repository](https://github.com/VarunJoshi591/COFFEE-3D-WEBSITE)
+
+### 🖐️ HandSense-AI
+Real-time browser-based hand tracking with immersive 3D holographic visualization using MediaPipe and Three.js.
+
+🔗 [View Repository](https://github.com/VarunJoshi591/HandSense-AI)
+
+### 🧠 Heart-Disease-Prediction-ML
+Machine learning project for heart disease prediction using Logistic Regression, Decision Tree and Random Forest algorithms.
+
+🔗 [View Repository](https://github.com/VarunJoshi591/Heart-Disease-Prediction-ML)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VarunJoshi591&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunJoshi591&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VarunJoshi591&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunJoshi591&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+<a href="https://linkedin.com/in/varun-joshi-287990306">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://portfolio-website-iota-fawn-26.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:joshivarun089@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/VarunJoshi591?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building, Learning & Improving — One Project at a Time.
+
+</div>
